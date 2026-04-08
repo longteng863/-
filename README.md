@@ -12,7 +12,7 @@
     <meta property="og:image" content="images/logo.png">
     <meta property="og:type" content="website">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.comcss2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
     <title>奇遇光屿 SERENDI - 珠宝首饰品牌</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
@@ -179,6 +179,6 @@
         </div>
     </div>
 
-    <script src="js/script.js"></script>
+    <script src="jsscript.js"></script>
 </body>
 </html>
