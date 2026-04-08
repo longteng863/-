@@ -1,4 +1,4 @@
-#[index.html](https://github.com/user-attachments/files/26568186/index.html)
+[index.html](https://github.com/user-attachments/files/26568827/index.html)
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -8,9 +8,9 @@
     <meta name="keywords" content="珠宝,首饰,钻石,翡翠,珍珠,黄金,SERENDI,奇遇光屿">
     <meta name="author" content="奇遇光屿 SERENDI">
     <meta property="og:title" content="奇遇光屿 SERENDI - 珠宝首饰品牌">
-    <meta property="og:description" content="发现独特的珠宝魅力，每一件首饰都是一个故事">
+    <meta property="og:description" content="遇见独属于你的高级质感，每一件首饰都是一个故事">
     <meta property="og:image" content="images/logo.png">
-    <meta property="og:url" content="https://serendi-jewelry.com">
+    <meta property="og:type" content="website">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
     <title>奇遇光屿 SERENDI - 珠宝首饰品牌</title>
